@@ -1,15 +1,3 @@
-/* Name: Mihai Vasilcan	
-   ID number: 260602604
-   Course number: CCCS 315
-   Assignment number #1
-   Developed in Eclipse 
-   */
-
-/*  The main class prompts the user to enter polynomials p(x) and q(x). 
- *  Outputs the two polynomials p(x) and q(x) in increasing order
- *  Outputs the polynomial p(x) * q(x):  p.multiply(q).
- *  Outputs the derivative of p(x):p.derivative(). 
- *  */
 
 import java.util.Scanner;
 

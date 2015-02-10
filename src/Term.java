@@ -1,11 +1,4 @@
 
-/* Name: Mihai Vasilcan	
-   ID number: 260602604
-   Course number: CCCS 315
-   Assignment number #1
-   Developed in Eclipse 
-   */
-
 /* The class Term that has two private data members
  * two constructors, and four methods : multiply, add, getCoeff and getExponent
  * */

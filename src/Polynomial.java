@@ -1,9 +1,5 @@
-/* Name: Mihai Vasilcan	
-   ID number: 260602604
-   Course number: CCCS 315
-   Assignment number #1
-   Developed in Eclipse 
-   */
+
+   
 /* The following Polynomial class implements the polynomial operations
  * It has 2 constructors a default and a copy constructor
  * It has the following methods that perform polynomial operations:
